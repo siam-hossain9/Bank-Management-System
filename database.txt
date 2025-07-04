@@ -1,0 +1,6 @@
+
+ID: 1
+Name: SUSANO
+Address: Mars
+Phone: 00021
+Balance: 140

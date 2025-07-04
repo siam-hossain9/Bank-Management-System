@@ -17,4 +17,4 @@ A simple console-based Bank Management System project using C++ and file handlin
 ## 🔧 How to Run
 1. Open `BankManagementSystem.cbp` in Code::Blocks
 2. Build and Run (F9)
-3. Interact with the menu from console
+3. Interact with the menu from the console

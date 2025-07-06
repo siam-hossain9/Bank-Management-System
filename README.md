@@ -8,7 +8,7 @@ A simple console-based Bank Management System project using C++ and file handlin
 - Update or delete account
 - View all accounts
 - Save data into `database.txt`
-- ![Screenshot 2025-07-04 175435](Screenshot 2025-07-04 175435.png)
+![OUTPUT](Screenshot 2025-07-04 175435.png)
 
 ## 🛠 Tools
 - Language: C++
